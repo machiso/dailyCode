@@ -1,4 +1,4 @@
-package com.machi.daily.math;
+package com.machi.daily.math.listnode;
 
 public class ListNode {
     private int val;
